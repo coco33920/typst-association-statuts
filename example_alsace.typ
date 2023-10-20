@@ -121,6 +121,8 @@ nécessité, à un ou plusieurs emprunts bancaires ou privés.
 
 = Dissolution de l'association
 == Dissolution
-En cas de dissolution prononcée par les deux tiers au moins des membres présents à l’assemblée générale, un ou plusieurs liquidateurs sont nommés par celle-ci et l’actif, s’il y a lieu, est dévolu conformément à l’article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901.
+En cas de dissolution prononcée par les deux tiers au moins des membres présents à l’assemblée générale, un ou plusieurs commissaires sont nommés par celle-ci et l’actif, s’il y a lieu, est attribué
+- _soit_ à une association à but similaire,
+- _soit_ à un organisme d'intérêt général.
 
 
