@@ -33,7 +33,7 @@
     align(center)[
         #set text(weight: "regular", size: 20pt)
         #v(40%)
-        #name - Status\
+        #name - Statuts\
         #v(0.5em)
         #set text(size: 14pt)
         Association déclarée par application de la loi du 1er juillet 1901 et du décret du 16 août 1901.
