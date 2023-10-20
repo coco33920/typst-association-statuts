@@ -17,6 +17,12 @@
     //durée du mandat
     duree_mandat: none,
 
+    //si création en alsace
+    alsace: false,
+
+    //si création en alsace mettre tribunal
+    tribunal: none,
+
     body
 
 ) = {
@@ -29,7 +35,7 @@
         number-align: right,
         margin: 1in
     )
-
+    if(not alsace){
     align(center)[
         #set text(weight: "regular", size: 20pt)
         #v(40%)
@@ -38,6 +44,16 @@
         #set text(size: 14pt)
         Association déclarée par application de la loi du 1er juillet 1901 et du décret du 16 août 1901.
     ]
+    }else{
+        align(center)[
+            #set text(weight: "regular",size: 20pt)
+            #v(40%)
+            #name - Statuts\
+            #v(0.5em)
+            #set text(size: 14pt)
+            Cette association est régie par les articles 21 à 79 - III du Code civil local et sera inscrite au registre des associations du tribunal d’instance de #tribunal
+        ]
+    }
 
     if(date != none) {
         set align(center)
