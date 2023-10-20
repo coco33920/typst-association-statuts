@@ -124,5 +124,3 @@ nécessité, à un ou plusieurs emprunts bancaires ou privés.
 En cas de dissolution prononcée par les deux tiers au moins des membres présents à l’assemblée générale, un ou plusieurs commissaires sont nommés par celle-ci et l’actif, s’il y a lieu, est attribué
 - _soit_ à une association à but similaire,
 - _soit_ à un organisme d'intérêt général.
-
-
